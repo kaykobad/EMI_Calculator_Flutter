@@ -1,6 +1,10 @@
 # emi_calculator
 
-A new Flutter project.
+A new Flutter project. This is my first flutter app which calculates EMI of home loans.
+
+![Image of Firstpage](https://github.com/kaykobad/EMI_Calculator_Flutter/blob/master/screenshots/ss1.PNG)
+![Image of Firstpage](https://github.com/kaykobad/EMI_Calculator_Flutter/blob/master/screenshots/ss2.PNG)
+![Image of Firstpage](https://github.com/kaykobad/EMI_Calculator_Flutter/blob/master/screenshots/ss3.PNG)
 
 ## Getting Started
 
